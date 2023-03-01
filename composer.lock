@@ -63,31 +63,31 @@
         },
         {
             "name": "darkaonline/l5-swagger",
-            "version": "8.4.1",
+            "version": "8.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/DarkaOnLine/L5-Swagger.git",
-                "reference": "0b1c3f5aca80fc710877bf7fdbab6d28d9b54f4c"
+                "reference": "8e61ce632fb90eb9d78cf34918d133c46baa93b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DarkaOnLine/L5-Swagger/zipball/0b1c3f5aca80fc710877bf7fdbab6d28d9b54f4c",
-                "reference": "0b1c3f5aca80fc710877bf7fdbab6d28d9b54f4c",
+                "url": "https://api.github.com/repos/DarkaOnLine/L5-Swagger/zipball/8e61ce632fb90eb9d78cf34918d133c46baa93b4",
+                "reference": "8e61ce632fb90eb9d78cf34918d133c46baa93b4",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
-                "laravel/framework": "^9.0 || >=8.40.0 || ^7.0",
+                "laravel/framework": "^10.0 || ^9.0 || >=8.40.0 || ^7.0",
                 "php": "^7.2 || ^8.0",
                 "swagger-api/swagger-ui": "^3.0 || ^4.0",
                 "symfony/yaml": "^5.0 || ^6.0",
-                "zircote/swagger-php": "^3.2 || ^4.0"
+                "zircote/swagger-php": "^3.2.0 || ^4.0.0"
             },
             "require-dev": {
                 "mockery/mockery": "1.*",
-                "orchestra/testbench": "7.* || ^6.15 || 5.*",
+                "orchestra/testbench": "^8.0 || 7.* || ^6.15 || 5.*",
                 "php-coveralls/php-coveralls": "^2.0",
-                "phpunit/phpunit": "^9.5"
+                "phpunit/phpunit": "^10.0 || ^9.5"
             },
             "type": "library",
             "extra": {
@@ -130,7 +130,7 @@
             ],
             "support": {
                 "issues": "https://github.com/DarkaOnLine/L5-Swagger/issues",
-                "source": "https://github.com/DarkaOnLine/L5-Swagger/tree/8.4.1"
+                "source": "https://github.com/DarkaOnLine/L5-Swagger/tree/8.5.0"
             },
             "funding": [
                 {
@@ -138,7 +138,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-09-22T05:16:35+00:00"
+            "time": "2023-02-15T07:29:49+00:00"
         },
         {
             "name": "dflydev/dot-access-data",
@@ -704,24 +704,24 @@
         },
         {
             "name": "graham-campbell/result-type",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GrahamCampbell/Result-Type.git",
-                "reference": "a878d45c1914464426dc94da61c9e1d36ae262a8"
+                "reference": "672eff8cf1d6fe1ef09ca0f89c4b287d6a3eb831"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/GrahamCampbell/Result-Type/zipball/a878d45c1914464426dc94da61c9e1d36ae262a8",
-                "reference": "a878d45c1914464426dc94da61c9e1d36ae262a8",
+                "url": "https://api.github.com/repos/GrahamCampbell/Result-Type/zipball/672eff8cf1d6fe1ef09ca0f89c4b287d6a3eb831",
+                "reference": "672eff8cf1d6fe1ef09ca0f89c4b287d6a3eb831",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.2.5 || ^8.0",
-                "phpoption/phpoption": "^1.9"
+                "phpoption/phpoption": "^1.9.1"
             },
             "require-dev": {
-                "phpunit/phpunit": "^8.5.28 || ^9.5.21"
+                "phpunit/phpunit": "^8.5.32 || ^9.6.3 || ^10.0.12"
             },
             "type": "library",
             "autoload": {
@@ -750,7 +750,7 @@
             ],
             "support": {
                 "issues": "https://github.com/GrahamCampbell/Result-Type/issues",
-                "source": "https://github.com/GrahamCampbell/Result-Type/tree/v1.1.0"
+                "source": "https://github.com/GrahamCampbell/Result-Type/tree/v1.1.1"
             },
             "funding": [
                 {
@@ -762,7 +762,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-07-30T15:56:11+00:00"
+            "time": "2023-02-25T20:23:15+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -1181,16 +1181,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v9.51.0",
+            "version": "v9.52.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "b81123134349a013a738a9f7f715c6ce99d5a414"
+                "reference": "9239128cfb4d22afefb64060dfecf53e82987267"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/b81123134349a013a738a9f7f715c6ce99d5a414",
-                "reference": "b81123134349a013a738a9f7f715c6ce99d5a414",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/9239128cfb4d22afefb64060dfecf53e82987267",
+                "reference": "9239128cfb4d22afefb64060dfecf53e82987267",
                 "shasum": ""
             },
             "require": {
@@ -1375,7 +1375,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2023-02-07T15:37:18+00:00"
+            "time": "2023-02-22T14:38:06+00:00"
         },
         {
             "name": "laravel/sanctum",
@@ -1572,16 +1572,16 @@
         },
         {
             "name": "league/commonmark",
-            "version": "2.3.8",
+            "version": "2.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/commonmark.git",
-                "reference": "c493585c130544c4e91d2e0e131e6d35cb0cbc47"
+                "reference": "c1e114f74e518daca2729ea8c4bf1167038fa4b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/c493585c130544c4e91d2e0e131e6d35cb0cbc47",
-                "reference": "c493585c130544c4e91d2e0e131e6d35cb0cbc47",
+                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/c1e114f74e518daca2729ea8c4bf1167038fa4b5",
+                "reference": "c1e114f74e518daca2729ea8c4bf1167038fa4b5",
                 "shasum": ""
             },
             "require": {
@@ -1674,7 +1674,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-12-10T16:02:17+00:00"
+            "time": "2023-02-15T14:07:24+00:00"
         },
         {
             "name": "league/config",
@@ -1760,16 +1760,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "3.12.2",
+            "version": "3.12.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "f6377c709d2275ed6feaf63e44be7a7162b0e77f"
+                "reference": "81e87e74dd5213795c7846d65089712d2dda90ce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/f6377c709d2275ed6feaf63e44be7a7162b0e77f",
-                "reference": "f6377c709d2275ed6feaf63e44be7a7162b0e77f",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/81e87e74dd5213795c7846d65089712d2dda90ce",
+                "reference": "81e87e74dd5213795c7846d65089712d2dda90ce",
                 "shasum": ""
             },
             "require": {
@@ -1831,7 +1831,7 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/flysystem/issues",
-                "source": "https://github.com/thephpleague/flysystem/tree/3.12.2"
+                "source": "https://github.com/thephpleague/flysystem/tree/3.12.3"
             },
             "funding": [
                 {
@@ -1847,7 +1847,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-01-19T12:02:19+00:00"
+            "time": "2023-02-18T15:32:41+00:00"
         },
         {
             "name": "league/mime-type-detection",
@@ -2402,24 +2402,24 @@
         },
         {
             "name": "phpoption/phpoption",
-            "version": "1.9.0",
+            "version": "1.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/schmittjoh/php-option.git",
-                "reference": "dc5ff11e274a90cc1c743f66c9ad700ce50db9ab"
+                "reference": "dd3a383e599f49777d8b628dadbb90cae435b87e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/dc5ff11e274a90cc1c743f66c9ad700ce50db9ab",
-                "reference": "dc5ff11e274a90cc1c743f66c9ad700ce50db9ab",
+                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/dd3a383e599f49777d8b628dadbb90cae435b87e",
+                "reference": "dd3a383e599f49777d8b628dadbb90cae435b87e",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.2.5 || ^8.0"
             },
             "require-dev": {
-                "bamarni/composer-bin-plugin": "^1.8",
-                "phpunit/phpunit": "^8.5.28 || ^9.5.21"
+                "bamarni/composer-bin-plugin": "^1.8.2",
+                "phpunit/phpunit": "^8.5.32 || ^9.6.3 || ^10.0.12"
             },
             "type": "library",
             "extra": {
@@ -2461,7 +2461,7 @@
             ],
             "support": {
                 "issues": "https://github.com/schmittjoh/php-option/issues",
-                "source": "https://github.com/schmittjoh/php-option/tree/1.9.0"
+                "source": "https://github.com/schmittjoh/php-option/tree/1.9.1"
             },
             "funding": [
                 {
@@ -2473,7 +2473,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-07-30T15:51:26+00:00"
+            "time": "2023-02-25T19:38:58+00:00"
         },
         {
             "name": "psr/cache",
@@ -3193,16 +3193,16 @@
         },
         {
             "name": "swagger-api/swagger-ui",
-            "version": "v4.15.5",
+            "version": "v4.16.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swagger-api/swagger-ui.git",
-                "reference": "118ea1329c0948f4f7d5aa6a7776a11c84df5b13"
+                "reference": "cea6642894da2b6dbdee835fd3acedaa3ee37f18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/swagger-api/swagger-ui/zipball/118ea1329c0948f4f7d5aa6a7776a11c84df5b13",
-                "reference": "118ea1329c0948f4f7d5aa6a7776a11c84df5b13",
+                "url": "https://api.github.com/repos/swagger-api/swagger-ui/zipball/cea6642894da2b6dbdee835fd3acedaa3ee37f18",
+                "reference": "cea6642894da2b6dbdee835fd3acedaa3ee37f18",
                 "shasum": ""
             },
             "type": "library",
@@ -3248,9 +3248,9 @@
             ],
             "support": {
                 "issues": "https://github.com/swagger-api/swagger-ui/issues",
-                "source": "https://github.com/swagger-api/swagger-ui/tree/v4.15.5"
+                "source": "https://github.com/swagger-api/swagger-ui/tree/v4.16.1"
             },
-            "time": "2022-11-09T06:53:40+00:00"
+            "time": "2023-02-25T18:18:34+00:00"
         },
         {
             "name": "symfony/console",
@@ -5846,16 +5846,16 @@
         },
         {
             "name": "zircote/swagger-php",
-            "version": "4.6.1",
+            "version": "4.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zircote/swagger-php.git",
-                "reference": "e449670473d7ecaff75dff744e8e9be68a79a44c"
+                "reference": "de32660ba43f7dd5f47a7a38d33d5d2c1c367d65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zircote/swagger-php/zipball/e449670473d7ecaff75dff744e8e9be68a79a44c",
-                "reference": "e449670473d7ecaff75dff744e8e9be68a79a44c",
+                "url": "https://api.github.com/repos/zircote/swagger-php/zipball/de32660ba43f7dd5f47a7a38d33d5d2c1c367d65",
+                "reference": "de32660ba43f7dd5f47a7a38d33d5d2c1c367d65",
                 "shasum": ""
             },
             "require": {
@@ -5918,9 +5918,9 @@
             ],
             "support": {
                 "issues": "https://github.com/zircote/swagger-php/issues",
-                "source": "https://github.com/zircote/swagger-php/tree/4.6.1"
+                "source": "https://github.com/zircote/swagger-php/tree/4.7.1"
             },
-            "time": "2023-02-03T01:25:00+00:00"
+            "time": "2023-02-25T22:37:20+00:00"
         }
     ],
     "packages-dev": [
